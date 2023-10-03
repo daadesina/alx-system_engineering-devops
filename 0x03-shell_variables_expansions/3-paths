@@ -1,2 +1,2 @@
 #!/bin/bash
-wc ls < PATH
+wc ls < $PATH
