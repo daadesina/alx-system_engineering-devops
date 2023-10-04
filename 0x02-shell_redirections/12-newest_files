@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mtime 5 | head
+ls -t | head
