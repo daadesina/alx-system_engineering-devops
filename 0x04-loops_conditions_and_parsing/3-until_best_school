@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#A script of until loop
+
+num=0
+
+until [ $num -eq 10 ];
+do
+	echo Best School
+	((num++))
+done
