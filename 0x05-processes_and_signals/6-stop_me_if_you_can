@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#6-stop_me_if_you_can
+
+pkill bash
