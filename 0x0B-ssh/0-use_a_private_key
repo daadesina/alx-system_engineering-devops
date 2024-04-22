@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+ssh 52.23.213.128 -i ~/.ssh/school
