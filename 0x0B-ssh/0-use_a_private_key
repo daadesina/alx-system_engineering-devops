@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 # Script that does something
-ssh ubuntu@52.23.213.128 -i ~/.ssh/school
+ssh ubuntu@100.25.164.40 -i ~/.ssh/school
